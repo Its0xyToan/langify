@@ -9,7 +9,7 @@ Add support for .lang files in your project !
 - Parse .lang files into javascript objects
 - Really fast (2 ms)
 - Lightweight (3 files not combined)
-
+- Supports Comments (//)
 
 
 ## Guide ❓
